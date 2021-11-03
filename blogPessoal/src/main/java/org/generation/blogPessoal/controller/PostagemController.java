@@ -21,7 +21,7 @@ import com.fasterxml.jackson.core.io.SegmentedStringWriter;
 
 @RestController
 @RequestMapping("/postagens")
-@CrossOrigin("*")
+@CrossOrigin(origins = "", allowedHeaders = "*")
 public class PostagemController {
 	
 	@Autowired
