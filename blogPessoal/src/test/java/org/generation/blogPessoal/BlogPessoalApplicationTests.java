@@ -1,10 +1,10 @@
-package br.org.generation.indicajobs;
+package org.generation.blogPessoal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class IndicaJobsApplicationTests {
+class BlogPessoalApplicationTests {
 
 	@Test
 	void contextLoads() {

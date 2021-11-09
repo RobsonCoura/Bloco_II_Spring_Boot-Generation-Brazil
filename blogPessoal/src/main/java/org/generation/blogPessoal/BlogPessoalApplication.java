@@ -1,13 +1,13 @@
-package br.org.generation.indicajobs;
+package org.generation.blogPessoal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class IndicaJobsApplication {
+public class BlogPessoalApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(IndicaJobsApplication.class, args);
+		SpringApplication.run(BlogPessoalApplication.class, args);
 	}
 
 }

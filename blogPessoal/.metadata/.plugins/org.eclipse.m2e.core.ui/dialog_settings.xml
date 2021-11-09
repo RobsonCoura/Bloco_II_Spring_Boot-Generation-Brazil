@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="F:\HD_SEAGATE_PARTE1\{ GIT GENERATION 2021 }\Bloco_II_Spring_Boot\blogPessoal"/>
+			<item value="F:\HD_SEAGATE_PARTE1\{ GIT GENERATION 2021 }\Bloco_II_Spring_Boot\Generation--Brasil_Bloco_II_Spring_Boot\blogPessoal"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -12,9 +12,5 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>
-	</section>
-	<section name="org.eclipse.m2e.core.pom.overview">
-	</section>
-	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>
