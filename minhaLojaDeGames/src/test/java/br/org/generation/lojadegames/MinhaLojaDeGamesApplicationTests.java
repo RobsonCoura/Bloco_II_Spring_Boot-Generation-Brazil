@@ -1,4 +1,4 @@
-package com.loja.minhaLojaDeGames;
+package br.org.generation.lojadegames;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
