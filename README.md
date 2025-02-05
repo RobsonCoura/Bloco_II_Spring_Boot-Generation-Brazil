@@ -26,9 +26,9 @@ As principais funcionalidades abordadas incluem:
 
 🛠 Tecnologias Utilizadas
 
-- **[Java 17](https://docs.oracle.com/en/java/javase/17/)**
+- **[Java 11](https://docs.oracle.com/en/java/javase/11/)**
 
-- **[Spring Boot 3](https://docs.spring.io/spring-boot/documentation.html)**
+- **[Spring Boot 2x](https://docs.spring.io/spring-boot/documentation.html)**
   
 - **[Maven](https://maven.apache.org/guides/index.html)**
 
